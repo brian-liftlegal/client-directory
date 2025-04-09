@@ -20,6 +20,7 @@
 		"eslint-plugin-svelte": "^2.35.1",
 		"prettier": "^3.2.5",
 		"prettier-plugin-svelte": "^3.2.3",
+		"supabase": "^2.20.12",
 		"svelte": "^4.2.7",
 		"svelte-loading-spinners": "^0.3.6",
 		"svelte-paginate": "^0.1.0",
